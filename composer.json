@@ -30,14 +30,14 @@
         "ext-imagick": "*",
         "ext-swoole": ">=5.0",
         "hyperf-ai/encryption": "~1.0.0",
-        "hyperf/cache": "~3.1.0",
-        "hyperf/di": "~3.1.0",
-        "hyperf/framework": "~3.1.0",
-        "hyperf/validation": "~3.1.0"
+        "hyperf/cache": "^3.0",
+        "hyperf/di": "^3.0",
+        "hyperf/framework": "^3.0",
+        "hyperf/validation": "^3.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.0",
-        "hyperf/testing": "~3.1.0",
+        "hyperf/testing": "^3.0",
         "phpstan/phpstan": "^0.12",
         "swoole/ide-helper": "dev-master"
     },
