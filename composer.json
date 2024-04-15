@@ -29,7 +29,7 @@
         "ext-fileinfo": "*",
         "ext-imagick": "*",
         "ext-swoole": ">=5.0",
-        "hyperf-ai/encryption": "~1.1.0",
+        "hyperf-ai/encryption": "~1.0.0",
         "hyperf/cache": "~3.1.0",
         "hyperf/di": "~3.1.0",
         "hyperf/framework": "~3.1.0",
